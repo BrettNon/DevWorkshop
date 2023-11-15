@@ -1,7 +1,7 @@
-Similar Concepts in Yelp and Microsoft Code Review Guidelines:
+1. Similar Concepts in Yelp and Microsoft Code Review Guidelines:
 
 Emphasis on Communication: Both Yelp and Microsoft stress the importance of clear communication during code reviews.
- Yelp advises giving reviewers context for changes and communicating timelines​​, while Microsoft highlights the need 
+ Yelp advises giving reviewers context for changes and communicating timelines​​, while Microsoft highlights the need
  for respectful and constructive communication, encouraging reviewers to remember their own experiences as submitters​​.
 
 Responsibility of Reviewers: Both companies highlight that reviewers are equally responsible for the code they review.
@@ -14,5 +14,16 @@ Process and Structure: Yelp's guidelines include specific roles like having a pr
  more on the attitude and approach of reviewers, such as being a role model and focusing on what matters​​.
 
 Feedback Approach: Yelp details specific methods for submitting and responding to code review feedback, such as avoiding
- major changes during review and responding to all actionable feedback​​​​, while Microsoft introduces unique methods like the 
+ major changes during review and responding to all actionable feedback​​​​, while Microsoft introduces unique methods like the
  use of emojis to clarify the tone of comments​​.
+
+
+ 2.
+
+ Link: https://codereview.stackexchange.com/questions/287927/rock-paper-scissors-game
+ This code review was good because it provided information on how the code could
+ be improved as well as become more readable. It provides a clear description on
+ what the issue is and how the code can be refactored to account for that. It
+ also gives a description on minor changes that follow certain programming
+ guidelines that would be consistent with what developers follow, so that it is
+ easier to debug and read by others.
