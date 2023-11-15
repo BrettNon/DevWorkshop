@@ -17,6 +17,16 @@ Feedback Approach: Yelp details specific methods for submitting and responding t
  major changes during review and responding to all actionable feedback​​​​, while Microsoft introduces unique methods like the 
  use of emojis to clarify the tone of comments​​.
 
+Based on Yelp and Microsoft’s code review guidelines, the following items should be part of a code review checklist:
+
+- Communicate clearly
+- Check code for correctness
+- Make sure code is well tested
+- Carefully read and understand the code
+- Be open-minded/embrace change
+- Discuss/Review feedback
+
+
 
  2.
 
